@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 From: Brazil 🇧🇷<br>💻 Experiência com | Some experience with: Python and Java<br>🌎 Linguas | Languages: Portuguese 🇧🇷, English us
+🌎 From: Brazil 🇧🇷<br>💻 Experiência com | Some experience with: Python ,Java, Spring Boot and SQL<br>🌎 Linguas | Languages: Portuguese 🇧🇷, English us
 
 
 ## 🌐 Socials:
