@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="535" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxwNTBzOXUycG1xMWQ1YzI2bmk2ZTlkdXY3M28zNmY2cTRldGNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vncgdgPWLwGRi/giphy.gif" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="235" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxwNTBzOXUycG1xMWQ1YzI2bmk2ZTlkdXY3M28zNmY2cTRldGNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vncgdgPWLwGRi/giphy.gif" width="100" /> 
 </p>
 
 
